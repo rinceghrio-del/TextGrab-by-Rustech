@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextGrab</string>
+    <string name="service_desc">Binabasa ang text sa screen para mapili at ma-copy mo gamit ang floating bubble. Walang data na lumalabas sa phone mo.</string>
+</resources>
